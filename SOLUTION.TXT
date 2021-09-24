@@ -1,0 +1,15 @@
+Question 1:
+    using the os.enviro to fetch all environment variable to a parameter
+Question 2:
+    The enviroment variable "QUERY_STRING" contain the query parameter data
+Question 3:
+    THe environment variable "HTTP_USER_AGENT" contains the browser information
+Question 4:
+    Passing date to CGI script is using different field POSTed data will be store in its field
+Question 5:
+    Set-Cookie: <cookie-name>=<cookie-value>
+Question 6:
+   
+Question 7:
+    Cookies provides the field to store some client information which could help to resume the last action and don't need to 
+    restart all over, for example the login status 
